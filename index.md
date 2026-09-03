@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+# Joseph Ruggiero
 Marine Geologist | PhD Candidate <br>
 Colorado School of Mines
 
