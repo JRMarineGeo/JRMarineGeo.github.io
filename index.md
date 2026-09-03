@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Marine Geologist | PhD Candidate
+Marine Geologist | PhD Candidate <br>
 Colorado School of Mines
 
 <p style="text-align: right; float: right; margin-left: 20px; margin-bottom: 10px;">
