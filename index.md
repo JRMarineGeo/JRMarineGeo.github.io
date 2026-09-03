@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Joseph Ruggiero
+layout: home
+title: Home
 ---
+# Joseph Ruggiero
+Marine Geologist | PhD Candidate
+Colorado School of Mines
 
 <p style="text-align: right; float: right; margin-left: 20px; margin-bottom: 10px;">
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
