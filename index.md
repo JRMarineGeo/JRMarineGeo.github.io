@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Joseph Ruggiero
 Marine Geologist | PhD Candidate
 Colorado School of Mines
 
@@ -10,11 +9,7 @@ Colorado School of Mines
   <img src="/assets/headshot.JPG" alt="Headshot of Joseph Ruggiero" width="400">
 </p>
 
-- [CV](/cv)
-- [Projects](/projects)
-- [Science Blog](/sci_blog)
-- [Marine Proxy Menu](/marine_proxy_menu)
-- [Code](/code folder) 
+ 
 
 ## About Me
 
