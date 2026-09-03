@@ -1,2 +1,2 @@
-# JosephRuggieroOceans.github.io
-The scientific website of Joseph Ruggiero - Marine Geologist
+# Joseph Ruggiero's Science Website
+
