@@ -1,2 +1,6 @@
 theme: minima
 title: Joseph Ruggiero
+
+header_pages:
+  - cv.md
+  - projects.md
