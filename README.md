@@ -5,4 +5,5 @@ Things I am working on for the site: <br>
 - getting CV uploaded as a pdf
 - Filling out project description page
 - linking code repository (and putting up code)
+- connecting jupyterlab to git so my code can get automatically backed up onto my repository
 
