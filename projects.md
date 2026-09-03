@@ -1,5 +1,5 @@
 ---
-Title: Projects
+layout: default
 ---
 
 # Current Projects
